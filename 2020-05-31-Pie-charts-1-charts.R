@@ -1,5 +1,5 @@
 # ------------------------------------------------------------------------------
-# Graphs & charts for the post "Pie charts and other data visualization sins 1"
+# Graphs & charts for the post "Pie charts and other data visualization sins"
 # Post URL: https://miguel-gomez.github.io/blog/2020/05/31/Pie-charts-1
 # Repo: https://github.com/miguel-gomez/BlogMaterials
 # Author: Miguel Gomez
